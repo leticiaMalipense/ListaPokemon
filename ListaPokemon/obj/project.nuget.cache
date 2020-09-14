@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "e2cetxjN5bTDLP3Tu/5klLJuG4hbF30sKil8+Mibm3VfPPgTctRLxhmw/v4NTtmhomrEYAcsTlGTdMcMN4rIaQ==",
+  "success": true,
+  "projectFilePath": "/Users/leticiamalipense/Desktop/pos/ListaPokemon/ListaPokemon/ListaPokemon.csproj",
+  "expectedPackageFiles": [
+    "/Users/leticiamalipense/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/leticiamalipense/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/leticiamalipense/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/leticiamalipense/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/leticiamalipense/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

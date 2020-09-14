@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{DC143270-1CA1-4ED3-9EF6-247F0FE0341F}|Default">
+  <MonoDevelop.Ide.ItemProperties.ListaPokemon.Android FirstBuild="True" PreferredExecutionTarget="Android.Nexus_4_API_29" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListaPokemon/MainPage.xaml">
+    <Files>
+      <File FileName="ListaPokemon/MainPage.xaml" Line="12" Column="62" />
+      <File FileName="ListaPokemon/MainPage.xaml.cs" />
+      <File FileName="ListaPokemon/App.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListaPokemon" expanded="True">
+            <Node name="ListaPokemon" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="ListaPokemon.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ListaPokemon.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.44B7CD93-6A8B-49B4-A7C0-F08AF01E5556" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

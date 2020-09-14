@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ListaPokemon.MainPage"
+             Title="Lista Pokemon">
+    <StackLayout>
+        <Label Text="Pokemons cadastrados"
+               FontSize="16"
+               VerticalOptions="Center"
+               HorizontalOptions="Center"
+               Padding="20"/>
+        <ListView x:Name="lsPokemon" ItemSelected="OnSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout BackgroundColor="#EEEEEEE" Orientation="Horizontal">
+                            <Image Source="{ Binding Image }"></Image>
+                            <StackLayout Orientation="Vertical">
+                                <Label Text="{ Binding Nome }" TextColor="#F35E20" HorizontalOptions="Start"/>
+                                <Label Text="{ Binding Tipo }" TextColor="#503026" HorizontalOptions="Start"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </StackLayout>
+</ContentPage>

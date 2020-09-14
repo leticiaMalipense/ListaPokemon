@@ -1,0 +1,14 @@
+/Users/leticiamalipense/Desktop/pos/ListaPokemon/ListaPokemon/bin/Debug/netstandard2.0/ListaPokemon.deps.json
+/Users/leticiamalipense/Desktop/pos/ListaPokemon/ListaPokemon/bin/Debug/netstandard2.0/ListaPokemon.dll
+/Users/leticiamalipense/Desktop/pos/ListaPokemon/ListaPokemon/bin/Debug/netstandard2.0/ref/ListaPokemon.dll
+/Users/leticiamalipense/Desktop/pos/ListaPokemon/ListaPokemon/bin/Debug/netstandard2.0/ListaPokemon.pdb
+/Users/leticiamalipense/Desktop/pos/ListaPokemon/ListaPokemon/obj/Debug/netstandard2.0/ListaPokemon.csprojAssemblyReference.cache
+/Users/leticiamalipense/Desktop/pos/ListaPokemon/ListaPokemon/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/leticiamalipense/Desktop/pos/ListaPokemon/ListaPokemon/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/leticiamalipense/Desktop/pos/ListaPokemon/ListaPokemon/obj/Debug/netstandard2.0/ListaPokemon.AssemblyInfoInputs.cache
+/Users/leticiamalipense/Desktop/pos/ListaPokemon/ListaPokemon/obj/Debug/netstandard2.0/ListaPokemon.AssemblyInfo.cs
+/Users/leticiamalipense/Desktop/pos/ListaPokemon/ListaPokemon/obj/Debug/netstandard2.0/ListaPokemon.csproj.CoreCompileInputs.cache
+/Users/leticiamalipense/Desktop/pos/ListaPokemon/ListaPokemon/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/leticiamalipense/Desktop/pos/ListaPokemon/ListaPokemon/obj/Debug/netstandard2.0/ListaPokemon.dll
+/Users/leticiamalipense/Desktop/pos/ListaPokemon/ListaPokemon/obj/Debug/netstandard2.0/ref/ListaPokemon.dll
+/Users/leticiamalipense/Desktop/pos/ListaPokemon/ListaPokemon/obj/Debug/netstandard2.0/ListaPokemon.pdb
