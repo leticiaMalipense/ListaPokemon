@@ -15,6 +15,7 @@
 /ListaPokemon.iOS/obj/iPhoneSimulator
 /ListaPokemon.Android/obj/Debug
 /ListaPokemon.iOS/bin/iPhoneSimulator
+/.vs
 .externalNativeBuild
 .cxx
 
